@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name           BaseCamp - Search All
-// @namespace      https://github.com/skratchdot/greasemonkey-basecamp-search-all
-// @description    A GreaseMonkey script that displays a "search all projects" form in the header of BaseCamp pages.
+// @name           Basecamp - Search All
+// @namespace      https://github.com/skratchdot/basecamp-search-all.user.js
+// @description    A user script that displays a "search all projects" form in the header of BaseCamp pages. It only displays when logged in.
 // @include        https://*.basecamphq.com/*
 // ==/UserScript==
 
